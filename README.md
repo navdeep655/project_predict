@@ -1,2 +1,3 @@
 # project_predict
-student performance exam store prediction
+student performance exam score prediction
+
